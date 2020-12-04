@@ -1,0 +1,23 @@
+.video-tag {
+    width: 100%;
+    letter-spacing: 2px;
+    font-weight: 600
+}
+.video-tag:hover {
+    color: #ed5622
+}
+
+.noSelect {
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.noSelect:focus {
+    outline: none;
+    box-shadow: none;
+}
