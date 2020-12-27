@@ -183,172 +183,172 @@ const data = {
           chapter: '1. Build a Multi Page App with Iron Meteor',
           courses: [{
             title: '1. Introduction',
-            url: '',
-            index: 0
+            url: 'wnhD_lRpJa8',
+            index: 37
           },
           {
             title: '2. Creating the Project with Iron Scaffolding',
-            url: '',
-            index: 0
+            url: 'EhGr1IVyK2k',
+            index: 38
           },
           {
             title: '3. The Master Layout',
-            url: '',
-            index: 0
+            url: 'EzZjDGRTn04',
+            index: 39
           },
           {
             title: '4. Routes and Controllers',
-            url: '',
-            index: 0
+            url: 'JCO5sllPn9E',
+            index: 40
           },
           {
             title: '5. Customizing Login with Meteor OAuth',
-            url: '',
-            index: 0
+            url: '320jdhyq0JI',
+            index: 41
           },
           {
             title: '6. Collections and Subscriptions',
-            url: '',
-            index: 0
+            url: '6S_D6eOvz5U',
+            index: 42
           },
           {
             title: '7. Generating Templates',
-            url: '',
-            index: 0
+            url: 'hGr0cZbEIng',
+            index: 43
           },
           {
             title: '8. Routing with Parameters',
-            url: '',
-            index: 0
+            url: 'lesiSoJgJ88',
+            index: 44
           },
           {
             title: '9. Using Reactive State',
-            url: '',
-            index: 0
+            url: 'IGqfBCX6hqw',
+            index: 45
           },
           {
             title: '10. Adding Multiple Users',
-            url: '',
-            index: 0
+            url: 'W01kZjkMWIE',
+            index: 46
           },
           {
             title: '11. Adding Comments',
-            url: '',
-            index: 0
+            url: 'o-cBastUwow',
+            index: 47
           }, {
             title: '12. Securing the Publish Functions',
-            url: '',
-            index: 0
+            url: 'FWV7ANyFdwo',
+            index: 48
           }]
         },
         {
           chapter: '2. Setting Up Meteor Projects',
           courses: [{
             title: '1. Introduction',
-            url: '',
-            index: 0
+            url: 'URkShNEGlIA',
+            index: 49
           },
           {
             title: '2. Project Structure',
-            url: '',
-            index: 0
+            url: 'QRcmmhV26E4',
+            index: 50
           },
           {
             title: '3. Configuration Settings',
-            url: '',
-            index: 0
+            url: 'duGUd1ofOXM',
+            index: 51
           },
           {
             title: '4. Installing Multiple Versions of NodeJS',
-            url: '',
-            index: 0
+            url: '7uLTKf9pOio',
+            index: 52
           },
           {
             title: '5. The Meteor Build System',
-            url: '',
-            index: 0
+            url: 'pxtiTG1h9FU',
+            index: 53
           },
           {
             title: '6. Application Structure',
-            url: '',
-            index: 0
+            url: 'qbYiOxbt8k4',
+            index: 54
           },
           {
             title: '7. The Meteor Package System',
-            url: '',
-            index: 0
+            url: 'tEKeDeUL72s',
+            index: 55
           },
           {
             title: '8. Working with Different Meteor Versions',
-            url: '',
-            index: 0
+            url: 'I2cbxMaBV2I',
+            index: 56
           },
           {
             title: '9. Using a Start Script',
-            url: '',
-            index: 0
+            url: 'no93QWesj-A',
+            index: 57
           }]
         },
         {
           chapter: '3. Using Iron Router',
           courses: [{
             title: '1. Introduction',
-            url: '',
-            index: 0
+            url: 'PP-Da751KfM',
+            index: 58
           },
           {
             title: '2. Getting Started',
-            url: '',
-            index: 0
+            url: '-TV5XFBZ7zk',
+            index: 59
           },
           {
             title: '3. Dynamic Paths',
-            url: '',
-            index: 0
+            url: 'AoRWwUMgMOc',
+            index: 60
           },
           {
             title: '4. Link Helpers',
-            url: '',
-            index: 0
+            url: 'c-RV_YpXq6k',
+            index: 61
           },
           {
             title: '5. Rendering with Data',
-            url: '',
-            index: 0
+            url: '0tq-KfGDY8Q',
+            index: 62
           },
           {
             title: '6. Layouts and Regions',
-            url: '',
-            index: 0
+            url: '0ZXRM86Leos',
+            index: 63
           },
           {
             title: '7. Using Route Options',
-            url: '',
-            index: 0
+            url: 'c23cF2QYHY8',
+            index: 64
           },
           {
             title: '8. Subscribing to Data',
-            url: '',
-            index: 0
+            url: 'dCVaRpx5ubY',
+            index: 65
           },
           {
             title: '9. Using the new waitOn Option',
-            url: '',
-            index: 0
+            url: 'ClnkCspeUxc',
+            index: 66
           },
           {
             title: '10. Hooks and Plugins',
-            url: '',
-            index: 0
+            url: 'aowrHxhluNI',
+            index: 67
           },
           {
             title: '11. Server Side Routes',
-            url: '',
-            index: 0
+            url: 'VOdfwWQn3OY',
+            index: 68
           }, {
             title: '12. Additional Resources',
-            url: '',
-            index: 0
+            url: 'gBubbjiM7dk',
+            index: 69
           }]
         }
       ]
@@ -359,315 +359,223 @@ const data = {
           chapter: '1. Meteor Reactivity with  Deps',
           courses: [{
             title: '1. Introduction',
-            url: '',
-            index: 0
+            url: 'NluWp3eQK1U',
+            index: 70
           },
           {
             title: '2. Reactivity with Meteor',
-            url: '',
-            index: 0
+            url: 'bOZROI6N-Pk',
+            index: 71
           },
           {
             title: '3. The Computation Object',
-            url: '',
-            index: 0
+            url: 'XHXdBKeY6B4',
+            index: 72
           },
           {
             title: '4. Understanding Deps.flush',
-            url: '',
-            index: 0
+            url: 'y4zTd91Fb7Y',
+            index: 73
           },
           {
             title: '5. Tracking Multiple Computations with Deps.Dependency',
-            url: '',
-            index: 0
+            url: 'v4a_zXx78Q8',
+            index: 74
           },
           {
             title: '6. Build a Simple Reactive Data Source',
-            url: '',
-            index: 0
+            url: 'Hyp-mvRPhh0',
+            index: 75
           }]
         },
         {
           chapter: '2. Introduction to DDP',
           courses: [{
             title: '1. Introduction',
-            url: '',
-            index: 0
+            url: 'nLFwzzpD6EU',
+            index: 76
           },
           {
-            title: '2. Project Structure',
-            url: '',
-            index: 0
+            title: '2. How HTTP Works',
+            url: 'd01IzqMDBhI',
+            index: 77
           },
           {
-            title: '3. Configuration Settings',
-            url: '',
-            index: 0
+            title: '3. The DDP Package',
+            url: 'tnpTm58HOnY',
+            index: 78
           },
           {
-            title: '4. Installing Multiple Versions of NodeJS',
-            url: '',
-            index: 0
+            title: '4. Debugging the Server with Node Inspector',
+            url: 'YW1fM-LrE_0',
+            index: 79
           },
           {
-            title: '5. The Meteor Build System',
-            url: '',
-            index: 0
+            title: '5. The DDP Server',
+            url: 'sIW1PFjB1p4',
+            index: 80
           },
           {
-            title: '6. Application Structure',
-            url: '',
-            index: 0
-          },
-          {
-            title: '7. The Meteor Package System',
-            url: '',
-            index: 0
-          },
-          {
-            title: '8. Working with Different Meteor Versions',
-            url: '',
-            index: 0
-          },
-          {
-            title: '9. Using a Start Script',
-            url: '',
-            index: 0
+            title: '6. DDP Session',
+            url: 'ER7Lrevdbic',
+            index: 81
           }]
         },
         {
           chapter: '3. Publish Subscribe in Meteor',
           courses: [{
-            title: '1. Introduction',
-            url: '',
-            index: 0
+            title: '1. PubSub in Meteor',
+            url: 'WKTtSAyuT_0',
+            index: 82
           },
           {
-            title: '2. Getting Started',
-            url: '',
-            index: 0
+            title: '2. Mechanics of PubSub',
+            url: 'zvWv_Ov11Vs',
+            index: 83
           },
           {
-            title: '3. Dynamic Paths',
-            url: '',
-            index: 0
+            title: '3. Publishing a Cursor',
+            url: 'Ued3bIuFc7M',
+            index: 84
           },
           {
-            title: '4. Link Helpers',
-            url: '',
-            index: 0
+            title: '4. Merging the Client View of Data',
+            url: 'hngj8lp4akU',
+            index: 85
           },
           {
-            title: '5. Rendering with Data',
-            url: '',
-            index: 0
-          },
-          {
-            title: '6. Layouts and Regions',
-            url: '',
-            index: 0
-          },
-          {
-            title: '7. Using Route Options',
-            url: '',
-            index: 0
-          },
-          {
-            title: '8. Subscribing to Data',
-            url: '',
-            index: 0
-          },
-          {
-            title: '9. Using the new waitOn Option',
-            url: '',
-            index: 0
-          },
-          {
-            title: '10. Hooks and Plugins',
-            url: '',
-            index: 0
-          },
-          {
-            title: '11. Server Side Routes',
-            url: '',
-            index: 0
-          }, {
-            title: '12. Additional Resources',
-            url: '',
-            index: 0
+            title: '5. The Connection Data Store',
+            url: 'zUufKWqfUEE',
+            index: 86
           }]
         },
         {
           chapter: '4. RPC with Meteor Methods',
           courses: [{
-            title: '1. Introduction',
-            url: '',
-            index: 0
+            title: '1. A Tour of Meteor Methods',
+            url: '3CJ9z4S5Zcc',
+            index: 87
           },
           {
-            title: '2. Creating the Project with Iron Scaffolding',
-            url: '',
-            index: 0
+            title: '2. Introduction to Meteor Methods',
+            url: '2iS3BZYVHP0',
+            index: 88
           },
           {
-            title: '3. The Master Layout',
-            url: '',
-            index: 0
+            title: '3. The Mechanics of Methods',
+            url: 'VBIGD_iB61g',
+            index: 89
           },
           {
-            title: '4. Routes and Controllers',
-            url: '',
-            index: 0
+            title: '4. Collections Use Methods',
+            url: 'p-g_FeTIVyw',
+            index: 90
           },
           {
-            title: '5. Customizing Login with Meteor OAuth',
-            url: '',
-            index: 0
+            title: '5. The Invalidation Crossbar',
+            url: '-5NMmXYWKy0',
+            index: 91
           },
           {
-            title: '6. Collections and Subscriptions',
-            url: '',
-            index: 0
+            title: '6. Using the Write Fence',
+            url: 'vzsaVI_s8T8',
+            index: 92
           },
           {
-            title: '7. Generating Templates',
-            url: '',
-            index: 0
+            title: '7. Synchronizing Methods Writes',
+            url: 'xnZRjgs1Dv0',
+            index: 93
           },
           {
-            title: '8. Routing with Parameters',
-            url: '',
-            index: 0
+            title: '8. Mechanics of Method Writes',
+            url: 'iNfAaTxevMM',
+            index: 94
           },
           {
-            title: '9. Using Reactive State',
-            url: '',
-            index: 0
+            title: '9. Writing Our Own Local Cache',
+            url: 'dNdRbosfGuA',
+            index: 95
           },
           {
-            title: '10. Adding Multiple Users',
-            url: '',
-            index: 0
+            title: '10. Saving and Retrieving Original Documents',
+            url: 'VjYP2I8lWKA',
+            index: 96
           },
           {
-            title: '11. Adding Comments',
-            url: '',
-            index: 0
-          }, {
-            title: '12. Securing the Publish Functions',
-            url: '',
-            index: 0
+            title: '11. Unblocking a Method',
+            url: 'wggqzODmKN4',
+            index: 97
           }]
         },
         {
           chapter: '5. Meteor Fibers and Dynamics',
           courses: [{
             title: '1. Introduction',
-            url: '',
-            index: 0
+            url: 'xrYYenNXSmE',
+            index: 98
           },
           {
-            title: '2. Project Structure',
-            url: '',
-            index: 0
+            title: '2. What Does it Mean to be Async',
+            url: '8l713i_jCrI',
+            index: 99
           },
           {
-            title: '3. Configuration Settings',
-            url: '',
-            index: 0
+            title: '3. About Fibers',
+            url: 'qYzdY58Eqiw',
+            index: 100
           },
           {
-            title: '4. Installing Multiple Versions of NodeJS',
-            url: '',
-            index: 0
+            title: '4. Using Fibers to Write Synchronous Style Code',
+            url: 'uggdN76Hn0Y',
+            index: 101
           },
           {
-            title: '5. The Meteor Build System',
-            url: '',
-            index: 0
+            title: '5. Dynamic Scoping with Meteor Dynamics',
+            url: 'vurQQkbSbVk',
+            index: 102
           },
           {
-            title: '6. Application Structure',
-            url: '',
-            index: 0
+            title: '6. Using bindEnvironment',
+            url: 'jWofiqgKy6Y',
+            index: 103
           },
           {
-            title: '7. The Meteor Package System',
-            url: '',
-            index: 0
+            title: '7.Meteor Async Wrappers',
+            url: 'jxI7M7wy_JE',
+            index: 104
           },
           {
-            title: '8. Working with Different Meteor Versions',
-            url: '',
-            index: 0
-          },
-          {
-            title: '9. Using a Start Script',
-            url: '',
-            index: 0
+            title: '8. How Meteor Uses Environment Variables',
+            url: 'PLMOeUNsajM',
+            index: 105
           }]
         },
         {
           chapter: '6. Hot Code Push with Reload and Autoupdate',
           courses: [{
-            title: '1. Introduction',
-            url: '',
-            index: 0
+            title: '1. Introducing the Reload and Autoupdate Packages',
+            url: 'RR2bNBetYJ4',
+            index: 106
           },
           {
-            title: '2. Getting Started',
-            url: '',
-            index: 0
+            title: '2. Working with the Reload Package',
+            url: 'vrTbmg4Ezkc',
+            index: 107
           },
           {
-            title: '3. Dynamic Paths',
-            url: '',
-            index: 0
+            title: '3. How the Autoupdate Package Works',
+            url: 'ZQQNVMdwj4w',
+            index: 108
           },
           {
-            title: '4. Link Helpers',
-            url: '',
-            index: 0
+            title: '4. Using a Custom onMigrate API',
+            url: 'FSUwcP_IZ9o',
+            index: 109
           },
           {
-            title: '5. Rendering with Data',
-            url: '',
-            index: 0
-          },
-          {
-            title: '6. Layouts and Regions',
-            url: '',
-            index: 0
-          },
-          {
-            title: '7. Using Route Options',
-            url: '',
-            index: 0
-          },
-          {
-            title: '8. Subscribing to Data',
-            url: '',
-            index: 0
-          },
-          {
-            title: '9. Using the new waitOn Option',
-            url: '',
-            index: 0
-          },
-          {
-            title: '10. Hooks and Plugins',
-            url: '',
-            index: 0
-          },
-          {
-            title: '11. Server Side Routes',
-            url: '',
-            index: 0
-          }, {
-            title: '12. Additional Resources',
-            url: '',
-            index: 0
+            title: '5. Case Study Using onMigrate with Video',
+            url: 'um0uvHIYeqs',
+            index: 110
           }]
         }
       ]
