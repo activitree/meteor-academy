@@ -7,15 +7,24 @@ const videos = []
 
 export default function VideoGallery () {
   const [index, setIndex] = useState(null)
+
   useEffect(() => {
-    data.javascript.forEach(chapter => {
-      chapter.courses.forEach(course => {
+    data.javascript.forEach((chapter, i) => {
+      chapter?.courses?.forEach((course, index) => {
         videos.push({ url: `https://www.youtube.com/embed/${course.url}?&autoplay=1`, type: 'video', altTag: course.title })
+        if (i === data.javascript.length - 1) {
+          if (index === chapter?.courses.length - 1) {
+            data.meteor.forEach(section => {
+              section?.chapters?.forEach(chapter => {
+                chapter.courses.forEach(course => {
+                  videos.push({ url: `https://www.youtube.com/embed/${course.url}?&autoplay=1`, type: 'video', altTag: course.title })
+                })
+              })
+            })
+          }
+        }
       })
     })
-    setTimeout(() => {
-      // data.meteor.map()
-    }, 600)
   }, [])
   return (
     <div className='container-fluid black_more' style={{ padding: 32, marginTop: 60 }}>
@@ -62,9 +71,9 @@ export default function VideoGallery () {
             <div className='col-12 mt-4' key={`z${index}`}>
               <h5 style={{ color: 'rgb(223, 79, 79)', background: 'white', maxWidth: 160, padding: '2px 10px', fontWeight: 600, borderRadius: 2 }}>{section.section}</h5>
               <div className='row'>
-                {section.chapters.map(chapter => {
+                {section.chapters.map((chapter, i) => {
                   return (
-                    <div key={index} className='col-12 col-md-4 my-2'>
+                    <div key={i} className='col-12 col-md-4 my-2'>
                       <h5 className='font-weight-bold' style={{ color: '#df4f4f' }}>{chapter.chapter}</h5>
                       <ul style={{ padding: 0 }}>
                         {chapter.courses.map((course, index) => <li style={styles.listItem} key={`x${index}`}>
