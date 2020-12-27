@@ -1,6 +1,6 @@
 {
-  "short_name": "Meteor Academy",
-  "name": "Meteor Coursed by Evented Mind",
+  "short_name": "Learning Meteor",
+  "name": "By Evented Mind",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,6 +20,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#393c44",
+  "background_color": "#393c44"
 }

@@ -137,42 +137,42 @@ const data = {
         chapter: '',
         courses: [{
           title: '1. Introduction',
-          url: 'N9pQAuHVnCo',
+          url: 'p6JBy6ZNUGo',
           index: 29
         },
         {
           title: '2. Getting Set Up',
-          url: 'N9pQAuHVnCo',
+          url: 'RQiRtisyOH0',
           index: 30
         },
         {
           title: '3. Using Git, Github and Meteor Versions',
-          url: 'N9pQAuHVnCo',
+          url: 'lkAITZXWmSQ',
           index: 31
         },
         {
           title: '4. Build a Simple Application Part 1',
-          url: 'N9pQAuHVnCo',
+          url: 'gv9mniQXRRo',
           index: 32
         },
         {
           title: '5. Build a Simple Application Part 2',
-          url: 'N9pQAuHVnCo',
+          url: 'mjH_9tuzVEs',
           index: 33
         },
         {
           title: '6. Build a Simple Application Part 3',
-          url: 'N9pQAuHVnCo',
+          url: 'pdOY_Z5xNuo',
           index: 34
         },
         {
           title: '7. Build a Simple Application Part 4',
-          url: 'N9pQAuHVnCo',
+          url: 'EYlJbgnPMds',
           index: 35
         },
         {
-          title: '1. Functions are First Class',
-          url: 'N9pQAuHVnCo',
+          title: '8. What\'s Next?',
+          url: 'mJq7mAYzvuk',
           index: 36
         }]
       }]
