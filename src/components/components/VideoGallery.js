@@ -68,7 +68,7 @@ export default function VideoGallery () {
                       <h5 className='font-weight-bold' style={{ color: '#df4f4f' }}>{chapter.chapter}</h5>
                       <ul style={{ padding: 0 }}>
                         {chapter.courses.map((course, index) => <li style={styles.listItem} key={`x${index}`}>
-                          <a style={{ color: '#fafafa' }} href={course.url}>{course.title}</a>
+                          <span style={{ color: '#fafafa' }} onClick={() => setIndex(course.index)}>{course.title}</span>
                         </li>)}
                       </ul>
                     </div>
